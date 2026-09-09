@@ -1,1 +1,1 @@
-# ai-study-assistant
+quick bites
